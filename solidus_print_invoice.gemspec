@@ -34,7 +34,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency 'solidus_core', ['>= 2.0.0', '< 4']
-  s.add_dependency 'solidus_support', '~> 0.9'
+  s.add_dependency 'solidus_support', '~> 0.8'
   s.add_dependency 'deface'
   s.add_dependency 'prawn', '1.0.0'
   s.add_dependency 'solidus', ['>= 1.0', '< 4']
